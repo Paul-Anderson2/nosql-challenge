@@ -8,5 +8,6 @@ Part 1: Database and Jupyter Notebook Set Up
 Part 2: Update the Database
 Part 3: Exploratory Analysis
 
-Part 1 and Part 2 of this challenge are in the NoSQL_setup_final.ipynb file
+Part 1 and Part 2 of this challenge are in the NoSQL_setup_final.ipynb file                                  
+
 Part 3 of this challenge is in the NoSQL_analysis_final.ipynb file
