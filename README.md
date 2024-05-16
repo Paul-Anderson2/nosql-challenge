@@ -9,6 +9,7 @@ Part 2: Update the Database
 Part 3: Exploratory Analysis
 
 Part 1 and Part 2 of this challenge are in the NoSQL_setup_final.ipynb file                                  
+Parts of the code must be run consectively to wor properly, as changes made to data types in part 1&2 affect query code in part 3                       
 
 Part 3 of this challenge is in the NoSQL_analysis_final.ipynb file
 
