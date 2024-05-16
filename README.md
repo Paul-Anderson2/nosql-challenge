@@ -15,5 +15,5 @@ Parts 1, 2, and 3 of the code must be run consecutively to work properly, as cha
 Part 3 of this challenge is in the NoSQL_analysis_final.ipynb file
 
 
-The resources file (establishments.json) was to large to upload to the repository and had to be zipped.           
-It must be downlaoded and unzipped to use it
+The resources file (establishments.json) was too large to upload to the repository and had to be zipped.           
+It must be downloaded and unzipped to use it
