@@ -11,3 +11,7 @@ Part 3: Exploratory Analysis
 Part 1 and Part 2 of this challenge are in the NoSQL_setup_final.ipynb file                                  
 
 Part 3 of this challenge is in the NoSQL_analysis_final.ipynb file
+
+
+The resources file (establishments.json) was to large to upload to the repository and had to be zipped.           
+It must be downlaoded and unzipped to use it
