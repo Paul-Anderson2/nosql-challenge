@@ -1,5 +1,5 @@
 # nosql-challenge                                               
-Hold files and folders for Module 9 challenge
+Hold files and folders for Module 12 challenge
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. 
 You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to 
